@@ -1,26 +1,38 @@
 [
     {
-        "name": "Бог 1",
-        "description": "Арес"
+        "name": "Арес",
+        "description": "1.  2.
+3. 
+4."
     },
     {
-        "name": "Бог 2",
-        "description": "Артемида"
+        "name": "Артемида",
+        "description": "1.  2.
+3. 
+4."
     },
     {
-        "name": "Бог 3",
-        "description": "Описание Бога 3"
+        "name": "Афина",
+        "description": "1.  2.
+3. 
+4."
     },
     {
-        "name": "Бог 4",
-        "description": "Описание Бога 4"
+        "name": "Дионис",
+        "description": "1.  2.
+3. 
+4."
     },
     {
-        "name": "Бог 5",
-        "description": "Описание Бога 5"
+        "name": "Гермес",
+        "description": "1.  2.
+3. 
+4."
     },
     {
-        "name": "Бог 6",
-        "description": "Описание Бога 6"
+        "name": "Афродита",
+        "description": "1.  2.
+3. 
+4."
     }
 ]
